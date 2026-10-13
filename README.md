@@ -18,14 +18,17 @@ Each push to the game's main branch adds a line automatically, written from whic
 
 ## Gameplay
 
-The clips below are **scripted throws**: real committed builds running in the iOS Simulator, driven through the game's own swipe-to-throw input with aim and speed picked by the game's physics checker. On a phone you throw with your arm instead. Click a GIF for the full-quality MP4.
+The clips below are **scripted throws**: real committed builds running in the iOS Simulator. A debug hook in the game feeds each throw (speed, angle and aim) and the 2-4 kick through the same code a real throw uses, with values found by the game's own physics checker. On a phone you throw with your arm instead. Click a GIF for the full-quality MP4.
 
-| 1-2 The cup | 1-3 Side ramps | 2-2 Over the fence | 2-4 Hole & kick *(setup only)* |
-|:---:|:---:|:---:|:---:|
-| [<img src="media/gameplay/1-2-the-cup.gif" width="170">](media/gameplay/1-2-the-cup.mp4) | [<img src="media/gameplay/1-3-side-ramps.gif" width="170">](media/gameplay/1-3-side-ramps.mp4) | [<img src="media/gameplay/2-2-over-the-fence.gif" width="170">](media/gameplay/2-2-over-the-fence.mp4) | [<img src="media/gameplay/2-4-hole-and-kick-setup.gif" width="170">](media/gameplay/2-4-hole-and-kick-setup.mp4) |
-| A soft underhand toss | Land on a ramp, roll in | The cat rights itself and lands | Through the hole, then slow-mo: *tap to kick* |
+| 1-2 The cup | 1-3 Side ramps | 2-2 Over the fence |
+|:---:|:---:|:---:|
+| [<img src="media/gameplay/1-2-the-cup.gif" width="200">](media/gameplay/1-2-the-cup.mp4) | [<img src="media/gameplay/1-3-side-ramps.gif" width="200">](media/gameplay/1-3-side-ramps.mp4) | [<img src="media/gameplay/2-2-over-the-fence.gif" width="200">](media/gameplay/2-2-over-the-fence.mp4) |
+| A soft underhand toss | Land on a ramp, roll in | The cat rights itself and lands |
 
-*2-4 stops at the kick prompt: the kick needs split-second timing by the player, which the capture rig can't script yet.*
+| 2-4 Hole & kick | 3-2 Bullseye |
+|:---:|:---:|
+| [<img src="media/gameplay/2-4-hole-and-kick.gif" width="200">](media/gameplay/2-4-hole-and-kick.mp4) | [<img src="media/gameplay/3-2-bullseye.gif" width="200">](media/gameplay/3-2-bullseye.mp4) |
+| Through the hole, slow-mo, kick it into the bucket *(second try)* | A flat, fast knife throw into the red |
 
 ## Progress timelapse
 
