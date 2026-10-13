@@ -22,7 +22,7 @@ The clips below are **scripted throws**: real committed builds running in the iO
 
 | 1-2 The cup | 1-3 Side ramps | 2-2 Over the fence | 2-4 Hole & kick *(setup only)* |
 |:---:|:---:|:---:|:---:|
-| [<img src="media/gameplay/1-2-the-cup.gif" width="190">](media/gameplay/1-2-the-cup.mp4) | [<img src="media/gameplay/1-3-side-ramps.gif" width="190">](media/gameplay/1-3-side-ramps.mp4) | [<img src="media/gameplay/2-2-over-the-fence.gif" width="190">](media/gameplay/2-2-over-the-fence.mp4) | [<img src="media/gameplay/2-4-hole-and-kick-setup.gif" width="190">](media/gameplay/2-4-hole-and-kick-setup.mp4) |
+| [<img src="media/gameplay/1-2-the-cup.gif" width="170">](media/gameplay/1-2-the-cup.mp4) | [<img src="media/gameplay/1-3-side-ramps.gif" width="170">](media/gameplay/1-3-side-ramps.mp4) | [<img src="media/gameplay/2-2-over-the-fence.gif" width="170">](media/gameplay/2-2-over-the-fence.mp4) | [<img src="media/gameplay/2-4-hole-and-kick-setup.gif" width="170">](media/gameplay/2-4-hole-and-kick-setup.mp4) |
 | A soft underhand toss | Land on a ramp, roll in | The cat rights itself and lands | Through the hole, then slow-mo: *tap to kick* |
 
 *2-4 stops at the kick prompt: the kick needs split-second timing by the player, which the capture rig can't script yet.*
